@@ -1,6 +1,6 @@
 - 👋 Hi, I am @arahmi6
 - 👀 I am interested in Website and Android programming.
-- 🌱 I'm currently learning Website programming with Javascript.
+- 🌱 I'm currently learning Website programming with ReactJS.
 - 📫 Instagram: @arahmi6_
 
 <!---
